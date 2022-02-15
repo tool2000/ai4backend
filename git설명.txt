@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "하고싶은말"
+git remote add origin 원격주소
+git push 
+#처음에는 git push --set-upstream origin master 를 쳐야할 수 있음.
