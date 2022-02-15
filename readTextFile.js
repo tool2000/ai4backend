@@ -1,0 +1,7 @@
+const fs = require('fs')
+console.log('프로그램 시작...')
+let data = fs.readFileSync('./news.txt')
+lookableData = data.toString()
+console.log(lookableData)
+console.log('--------------------------------------------')
+console.log(lookableData.slice(0, 100))

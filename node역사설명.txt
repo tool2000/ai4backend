@@ -1,0 +1,16 @@
+
+ES5 (2009)
+ES6 (2015), ECMAScript 
+
+2009, Javascript 사용자베이스. Ryan Dahl, node
+2011, node package manager (npm)
+      yarn
+      npm 
+Node.js : commonJS, AMD, UMD
+
+
+ES6: import / export
+Node.js : require / exports
+node의 강점 : 비동기식. asyncronous
+              싱글스레드
+              
